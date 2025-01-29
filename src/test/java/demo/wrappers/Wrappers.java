@@ -13,7 +13,28 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
 
 public class Wrappers {
+    ChromeDriver driver;
+    public Wrappers(ChromeDriver driver) {
+        this.driver = driver;
+    }
     /*
      * Write your selenium wrappers here
      */
+    public void navigateToURL(String url) {
+        
+        driver.get(url);
+    }
+
+    public void clickElement(By by) {
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        wait.until(ExpectedConditions.elementToBeClickable(by));
+        driver.findElement(by).click();
+    }
+
+    public String getText(By by) {
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        wait.until(ExpectedConditions.visibilityOfElementLocated(by));
+        WebElement element = driver.findElement(by);
+        return element.getText();
+    }
 }

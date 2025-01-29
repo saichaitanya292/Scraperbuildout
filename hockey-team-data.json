@@ -1,0 +1,146 @@
+[ {
+  "teamName" : "Buffalo Sabres",
+  "Epoch Time of Scrape" : 1738187812316,
+  "year" : 1990,
+  "winPercentage" : 0.388
+}, {
+  "teamName" : "Hartford Whalers",
+  "Epoch Time of Scrape" : 1738187812487,
+  "year" : 1990,
+  "winPercentage" : 0.388
+}, {
+  "teamName" : "Minnesota North Stars",
+  "Epoch Time of Scrape" : 1738187812552,
+  "year" : 1990,
+  "winPercentage" : 0.338
+}, {
+  "teamName" : "New York Islanders",
+  "Epoch Time of Scrape" : 1738187812654,
+  "year" : 1990,
+  "winPercentage" : 0.312
+}, {
+  "teamName" : "Quebec Nordiques",
+  "Epoch Time of Scrape" : 1738187812781,
+  "year" : 1990,
+  "winPercentage" : 0.2
+}, {
+  "teamName" : "Toronto Maple Leafs",
+  "Epoch Time of Scrape" : 1738187812844,
+  "year" : 1990,
+  "winPercentage" : 0.287
+}, {
+  "teamName" : "Vancouver Canucks",
+  "Epoch Time of Scrape" : 1738187812878,
+  "year" : 1990,
+  "winPercentage" : 0.35
+}, {
+  "teamName" : "Winnipeg Jets",
+  "Epoch Time of Scrape" : 1738187812942,
+  "year" : 1990,
+  "winPercentage" : 0.325
+}, {
+  "teamName" : "Buffalo Sabres",
+  "Epoch Time of Scrape" : 1738187813006,
+  "year" : 1991,
+  "winPercentage" : 0.388
+}, {
+  "teamName" : "Calgary Flames",
+  "Epoch Time of Scrape" : 1738187813038,
+  "year" : 1991,
+  "winPercentage" : 0.388
+}, {
+  "teamName" : "Buffalo Sabres",
+  "Epoch Time of Scrape" : 1738187814052,
+  "year" : 1990,
+  "winPercentage" : 0.388
+}, {
+  "teamName" : "Hartford Whalers",
+  "Epoch Time of Scrape" : 1738187814191,
+  "year" : 1990,
+  "winPercentage" : 0.388
+}, {
+  "teamName" : "Minnesota North Stars",
+  "Epoch Time of Scrape" : 1738187814243,
+  "year" : 1990,
+  "winPercentage" : 0.338
+}, {
+  "teamName" : "New York Islanders",
+  "Epoch Time of Scrape" : 1738187814321,
+  "year" : 1990,
+  "winPercentage" : 0.312
+}, {
+  "teamName" : "Quebec Nordiques",
+  "Epoch Time of Scrape" : 1738187814431,
+  "year" : 1990,
+  "winPercentage" : 0.2
+}, {
+  "teamName" : "Toronto Maple Leafs",
+  "Epoch Time of Scrape" : 1738187814482,
+  "year" : 1990,
+  "winPercentage" : 0.287
+}, {
+  "teamName" : "Vancouver Canucks",
+  "Epoch Time of Scrape" : 1738187814507,
+  "year" : 1990,
+  "winPercentage" : 0.35
+}, {
+  "teamName" : "Winnipeg Jets",
+  "Epoch Time of Scrape" : 1738187814559,
+  "year" : 1990,
+  "winPercentage" : 0.325
+}, {
+  "teamName" : "Buffalo Sabres",
+  "Epoch Time of Scrape" : 1738187814608,
+  "year" : 1991,
+  "winPercentage" : 0.388
+}, {
+  "teamName" : "Calgary Flames",
+  "Epoch Time of Scrape" : 1738187814640,
+  "year" : 1991,
+  "winPercentage" : 0.388
+}, {
+  "teamName" : "Hartford Whalers",
+  "Epoch Time of Scrape" : 1738187815683,
+  "year" : 1991,
+  "winPercentage" : 0.325
+}, {
+  "teamName" : "Quebec Nordiques",
+  "Epoch Time of Scrape" : 1738187815915,
+  "year" : 1991,
+  "winPercentage" : 0.25
+}, {
+  "teamName" : "San Jose Sharks",
+  "Epoch Time of Scrape" : 1738187815939,
+  "year" : 1991,
+  "winPercentage" : 0.212
+}, {
+  "teamName" : "Toronto Maple Leafs",
+  "Epoch Time of Scrape" : 1738187815986,
+  "year" : 1991,
+  "winPercentage" : 0.375
+}, {
+  "teamName" : "Edmonton Oilers",
+  "Epoch Time of Scrape" : 1738187816210,
+  "year" : 1992,
+  "winPercentage" : 0.31
+}, {
+  "teamName" : "Ottawa Senators",
+  "Epoch Time of Scrape" : 1738187817333,
+  "year" : 1992,
+  "winPercentage" : 0.119
+}, {
+  "teamName" : "San Jose Sharks",
+  "Epoch Time of Scrape" : 1738187817431,
+  "year" : 1992,
+  "winPercentage" : 0.131
+}, {
+  "teamName" : "Tampa Bay Lightning",
+  "Epoch Time of Scrape" : 1738187817478,
+  "year" : 1992,
+  "winPercentage" : 0.274
+}, {
+  "teamName" : "Mighty Ducks of Anaheim",
+  "Epoch Time of Scrape" : 1738187817608,
+  "year" : 1993,
+  "winPercentage" : 0.393
+} ]
